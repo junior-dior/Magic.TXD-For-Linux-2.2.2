@@ -14,7 +14,7 @@
 | **ชื่อโปรแกรม** | **Application Name** |
 | Magic.TXD For Linux | Magic.TXD For Linux |
 | **เวอร์ชัน** | **Version** |
-| 2.2.2 | 2.2.2 |
+| 2.2.2-Dev | 2.2.2-Dev |
 | **ระบบปฏิบัติการ** | **Operating System** |
 | Linux | Linux |
 | **ประเภท** | **License** |
