@@ -109,55 +109,45 @@ This version is built for Linux and is distributed as a Non Open Source applicat
 
 ---
 
-> สามารถเพิ่มวิดีโอได้ไม่จำกัด
-
 ---
 
 # ⬇️ ดาวน์โหลด | Downloads
 
-## Mirror 1
+> 🇹🇭 เลือกดาวน์โหลดจากลิงก์ด้านล่าง
+>
+> 🇬🇧 Choose a download mirror below.
 
-- Linux x64
-  https://example.com/download/linux-x64
+<p align="center">
 
----
+<a href="https://example.com/download1">
+<img src="https://img.shields.io/badge/Linux_x64-Download-success?style=for-the-badge&logo=linux&logoColor=white">
+</a>
 
-## Mirror 2
+<a href="https://drive.google.com/">
+<img src="https://img.shields.io/badge/Google_Drive-Download-4285F4?style=for-the-badge&logo=googledrive&logoColor=white">
+</a>
 
-- Google Drive
-  https://drive.google.com/
+<a href="https://mega.nz/">
+<img src="https://img.shields.io/badge/MEGA-Download-D90007?style=for-the-badge&logo=mega&logoColor=white">
+</a>
 
----
+<a href="https://www.mediafire.com/">
+<img src="https://img.shields.io/badge/MediaFire-Download-1296F3?style=for-the-badge">
+</a>
 
-## Mirror 3
+<a href="https://github.com/">
+<img src="https://img.shields.io/badge/GitHub-Releases-181717?style=for-the-badge&logo=github">
+</a>
 
-- Mega
-  https://mega.nz/
+<a href="https://onedrive.live.com/">
+<img src="https://img.shields.io/badge/OneDrive-Download-0078D4?style=for-the-badge&logo=microsoftonedrive">
+</a>
 
----
+<a href="https://dropbox.com/">
+<img src="https://img.shields.io/badge/Dropbox-Download-0061FF?style=for-the-badge&logo=dropbox">
+</a>
 
-## Mirror 4
-
-- MediaFire
-  https://www.mediafire.com/
-
----
-
-## Mirror 5
-
-- GitHub Release
-  https://github.com/
-
----
-
-## Mirror 6
-
-- OneDrive
-  https://onedrive.live.com/
-
----
-
-> สามารถเพิ่มลิงก์ดาวน์โหลดได้ไม่จำกัด
+</p>
 
 ---
 
