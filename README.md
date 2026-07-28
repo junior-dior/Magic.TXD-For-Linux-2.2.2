@@ -156,6 +156,7 @@ This version is built for Linux and is distributed as a Non Open Source applicat
 ```
 MagicTXD/
 │
+├── Magic.TXD/
 └── README.md
 ```
 
