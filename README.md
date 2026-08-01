@@ -57,7 +57,7 @@ This version is built for Linux and is distributed as a Non Open Source applicat
 
 ## Screenshot 1
 
-![Screenshot 1]([https://img1.pic.in.th/images/Screenshot_20260801_175129.png)
+![Screenshot 1](https://img1.pic.in.th/images/Screenshot_20260801_175129.png)
 
 ---
 
@@ -70,30 +70,6 @@ This version is built for Linux and is distributed as a Non Open Source applicat
 > เพิ่มรูปได้ไม่จำกัด เพียงคัดลอกบล็อกด้านบนแล้วเปลี่ยน URL
 
 ---
-
-# 🎥 วิดีโอ | Videos
-
-## Installation
-
-[![Installation](https://img.youtube.com/vi/VIDEO_ID_1/maxresdefault.jpg)](https://youtu.be/VIDEO_ID_1)
-
----
-
-## Tutorial
-
-[![Tutorial](https://img.youtube.com/vi/VIDEO_ID_2/maxresdefault.jpg)](https://youtu.be/VIDEO_ID_2)
-
----
-
-## Review
-
-[![Review](https://img.youtube.com/vi/VIDEO_ID_3/maxresdefault.jpg)](https://youtu.be/VIDEO_ID_3)
-
----
-
-## Showcase
-
-[![Showcase](https://img.youtube.com/vi/VIDEO_ID_4/maxresdefault.jpg)](https://youtu.be/VIDEO_ID_4)
 
 ---
 
