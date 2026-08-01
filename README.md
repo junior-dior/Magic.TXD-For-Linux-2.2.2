@@ -57,25 +57,13 @@ This version is built for Linux and is distributed as a Non Open Source applicat
 
 ## Screenshot 1
 
-![Screenshot 1](https://example.com/images/screenshot1.png)
+![Screenshot 1]([https://img1.pic.in.th/images/Screenshot_20260801_175129.png)
 
 ---
 
 ## Screenshot 2
 
-![Screenshot 2](https://example.com/images/screenshot2.png)
-
----
-
-## Screenshot 3
-
-![Screenshot 3](https://example.com/images/screenshot3.png)
-
----
-
-## Screenshot 4
-
-![Screenshot 4](https://example.com/images/screenshot4.png)
+![Screenshot 2](https://img2.pic.in.th/Screenshot_20260801_175203.png)
 
 ---
 
