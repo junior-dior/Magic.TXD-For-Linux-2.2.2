@@ -1,9 +1,9 @@
-# Magic.TXD For Linux 2.2.2
+# DIOR.TXD For Linux 2.2.2
 ## (Non Open Source)
 
-> 🇹🇭 **Magic.TXD สำหรับ Linux เวอร์ชัน 2.2.2 (ไม่ใช่โอเพนซอร์ส)**
+> 🇹🇭 **DIOR.TXD สำหรับ Linux เวอร์ชัน 2.2.2 (ไม่ใช่โอเพนซอร์ส)**
 >
-> 🇬🇧 **Magic.TXD for Linux version 2.2.2 (Non Open Source)**
+> 🇬🇧 **DIOR.TXD for Linux version 2.2.2 (Non Open Source)**
 
 ---
 
@@ -12,7 +12,7 @@
 | ไทย | English |
 |------|----------|
 | **ชื่อโปรแกรม** | **Application Name** |
-| Magic.TXD For Linux | Magic.TXD For Linux |
+| DIOR.TXD For Linux | DIOR.TXD For Linux |
 | **เวอร์ชัน** | **Version** |
 | 2.2.2-Dev | 2.2.2-Dev |
 | **ระบบปฏิบัติการ** | **Operating System** |
@@ -20,7 +20,7 @@
 | **ประเภท** | **License** |
 | Non Open Source | Non Open Source |
 | **สถานะ** | **Status** |
-| Stable | Stable |
+| Beta | Beta |
 
 ---
 
@@ -28,13 +28,13 @@
 
 ### 🇹🇭 ภาษาไทย
 
-Magic.TXD เป็นโปรแกรมสำหรับเปิด แก้ไข นำเข้า และส่งออกไฟล์ Texture (.TXD)
+DIOR.TXD เป็นโปรแกรมสำหรับเปิด แก้ไข นำเข้า และส่งออกไฟล์ Texture (.TXD)
 ที่ใช้งานกับเกมตระกูล GTA รองรับการจัดการ Texture หลายรูปแบบ
 เวอร์ชันนี้สำหรับระบบ Linux และเป็นเวอร์ชัน Non Open Source
 
 ### 🇬🇧 English
 
-Magic.TXD is a texture editor used to open, edit, import and export TXD texture files
+DIOR.TXD is a texture editor used to open, edit, import and export TXD texture files
 commonly used in GTA series games.
 This version is built for Linux and is distributed as a Non Open Source application.
 
@@ -118,9 +118,9 @@ This version is built for Linux and is distributed as a Non Open Source applicat
 # 📂 โครงสร้างไฟล์ | File Structure
 
 ```
-MagicTXD/
+DIORTXD/
 │
-├── Magic.TXD/
+├── DIOR.TXD/
 └── README.md
 ```
 
@@ -147,13 +147,13 @@ MagicTXD/
 4. ให้สิทธิ์ไฟล์
 
 ```bash
-chmod +x MagicTXD
+chmod +x DIORTXD
 ```
 
 5. เปิดโปรแกรม
 
 ```bash
-./MagicTXD
+./DIORTXD
 ```
 
 ---
@@ -166,13 +166,13 @@ chmod +x MagicTXD
 4. Make the executable file executable.
 
 ```bash
-chmod +x MagicTXD
+chmod +x DIORTXD
 ```
 
 5. Run the application.
 
 ```bash
-./MagicTXD
+./DIORTXD
 ```
 
 ---
