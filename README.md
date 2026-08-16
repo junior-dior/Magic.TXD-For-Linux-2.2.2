@@ -53,21 +53,23 @@ This version is built for Linux and is distributed as a Non Open Source applicat
 
 ---
 
-# 🖼 รูปภาพ | Screenshots
+# 🖼 รูปภาพ | Screenshots | Video
 
-## Screenshot 1
+## 🎬 Video 1
 
-<video src="https://streamable.com/ogvpsp" controls width="100%"></video>
+<a href="https://streamable.com/ogvpsp">
+  <img src="https://cdn-cf-east.streamable.com/image/ogvpsp.jpg" alt="DIOR.TXD For Linux 2.2.2 Video" width="800">
+</a>
+
+> 🎥 คลิกที่ภาพเพื่อรับชมวิดีโอ
+> 
+> Click the image above to watch the video.
 
 ---
 
-## Screenshot 2
+## 🖼 Screenshot 2
 
 ![Screenshot 2](https://img2.pic.in.th/Screenshot_20260801_175203.png)
-
----
-
-> เพิ่มรูปได้ไม่จำกัด เพียงคัดลอกบล็อกด้านบนแล้วเปลี่ยน URL
 
 ---
 
