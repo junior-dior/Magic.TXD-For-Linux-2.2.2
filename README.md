@@ -57,7 +57,7 @@ This version is built for Linux and is distributed as a Non Open Source applicat
 
 ## Screenshot 1
 
-![Screenshot 1](https://img1.pic.in.th/images/Screenshot_20260801_175129.png)
+<video src="https://streamable.com/ogvpsp" controls width="100%"></video>
 
 ---
 
